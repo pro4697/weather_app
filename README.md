@@ -1,4 +1,4 @@
-# Weather app
+# Weather app (2020.06)
 
 ### Stack
 -   React Native
